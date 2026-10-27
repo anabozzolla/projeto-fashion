@@ -98,3 +98,15 @@ p{
   
 }
 
+.caixa-texto{
+    background-image: url(../img/bg_detalhe.png);
+
+    display: flex;
+    align-items: center;
+
+    margin-left: 87px;
+     margin-top: 70px;
+    width: 1350px;
+
+}
+
