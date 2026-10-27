@@ -87,10 +87,14 @@ p{
 
 .modelos{
     display: flex;
-   
+    align-items: center;
+    gap: 24px;
+
+    padding: 22px;
 }
 
 .img{
     margin-left: 40px;
+  
 }
 
