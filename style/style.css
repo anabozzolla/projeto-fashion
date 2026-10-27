@@ -103,10 +103,12 @@ p{
 
     display: flex;
     align-items: center;
+    gap: 24px;
 
-    margin-left: 87px;
-     margin-top: 70px;
-    width: 1350px;
+    padding: 22px;
+    width: 1000px;
+    
+    margin-left: 0px;
 
 }
 
